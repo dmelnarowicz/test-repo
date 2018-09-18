@@ -11,4 +11,9 @@ class MyClass
     {
         return 1+1;
     }
+
+    public function minus()
+    {
+        return 1-1;
+    }
 }
