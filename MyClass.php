@@ -16,4 +16,10 @@ class MyClass
     {
         return 1-1;
     }
+
+    public function div()
+    {
+        return 1/1;
+    }
+
 }
